@@ -2938,6 +2938,12 @@
     display: none !important;
 }
 
+#app-mount .avatarWrapper-1B9FTW .wrapper-3Un6-K foreignObject[mask*=mobile] ~ rect.pointerEvents-2KjWnj,
+#app-mount .avatarWrapper-1B9FTW .wrapper-3Un6-K foreignObject[mask*=mobile] + rect.pointerEvents-2KjWnj {
+    display: none !important;
+}
+
+
 .discrimBase-v65kTs,
 .discriminator-hnHkyt {
     color: #d4d4d4;
