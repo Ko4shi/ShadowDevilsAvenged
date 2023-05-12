@@ -2929,6 +2929,11 @@
     color: white;
 }
 
+/* Hide the circle element */
+.avatarWrapper-eenWra .wrapper-3Un6-K foreignObject[mask*=mobile] + rect {
+  display: none;
+}
+
 .discrimBase-v65kTs,
 .discriminator-hnHkyt {
     color: #d4d4d4;
