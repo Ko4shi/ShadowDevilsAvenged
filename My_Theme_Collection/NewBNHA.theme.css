@@ -2895,10 +2895,10 @@
     background-color: rgba(255, 255, 255, .12);
 }
 
-#app-mount .avatarWrapper-eenWra .wrapper-3Un6-K foreignObject[mask*=mobile] + rect,
+/* #app-mount .avatarWrapper-eenWra .wrapper-3Un6-K foreignObject[mask*=mobile] + rect,
 #app-mount .avatar-3QF_VA.wrapper-3Un6-K foreignObject[mask*=mobile] + rect {
   fill: black;
-}
+} */
 
 #app-mount .avatarWrapper-eenWra .wrapper-3Un6-K foreignObject[mask*=mobile] ~ .pointerEvents-2KjWnj,
 #app-mount .avatar-3QF_VA.wrapper-3Un6-K foreignObject[mask*=mobile] ~ .pointerEvents-2KjWnj {
