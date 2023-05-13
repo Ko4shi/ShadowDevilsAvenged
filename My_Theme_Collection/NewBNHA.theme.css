@@ -2906,10 +2906,10 @@
   fill: #3BA53B !important;
 }
 
-.avatarWrapper-eenWra circle, .avatar-3QF_VA.wrapper-3Un6-K circle {
+/* .avatarWrapper-eenWra circle, .avatar-3QF_VA.wrapper-3Un6-K circle {
     fill: black;
     opacity: 1 !important;
-}
+} */
 
 .selected-1sf9UK.item-2GWPIy, 
 .selected-1sf9UK.item-2GWPIy:hover {
@@ -2928,21 +2928,6 @@
 .actionButton-1YKTU0 {
     color: white;
 }
-
-/* Hide the circle element */
-.avatarWrapper-eenWra .wrapper-3Un6-K foreignObject[mask*=mobile] + rect {
-  display: none;
-}
-
-#app-mount .avatarWrapper-1B9FTW .wrapper-3Un6-K foreignObject[mask*=mobile] ~ rect.pointerEvents-2KjWnj {
-    display: none !important;
-}
-
-#app-mount .avatarWrapper-1B9FTW .wrapper-3Un6-K foreignObject[mask*=mobile] ~ rect.pointerEvents-2KjWnj,
-#app-mount .avatarWrapper-1B9FTW .wrapper-3Un6-K foreignObject[mask*=mobile] + rect.pointerEvents-2KjWnj {
-    display: none !important;
-}
-
 
 .discrimBase-v65kTs,
 .discriminator-hnHkyt {
